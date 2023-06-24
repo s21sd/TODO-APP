@@ -2,7 +2,8 @@
 
 A simple todo application built using HTML, CSS, and JavaScript. This app allows users to create, manage, and track their tasks easily.
 
-![Todo App Screenshot](screenshot.png)
+![Todo App Screenshot](WhatsApp Image 2023-06-24 at 14.34.21.jpg)
+![Todo App Screenshot](WhatsApp Image 2023-06-24 at 14.35.28.jpg)
 
 ## Demo
 
