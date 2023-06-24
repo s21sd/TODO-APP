@@ -171,7 +171,7 @@
      .show {
          position: absolute;
          top: 242px;
-         right: 368px;
+         right: 466px;
 
 
      }
@@ -188,7 +188,7 @@
          justify-content: end;
          position: absolute;
          right: 25%;
-         bottom: 50%;
+         top: 268px;
          width: 40vw;
          height: 50px;
 
